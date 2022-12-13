@@ -1,0 +1,44 @@
+<soundlist>
+  <sound category="music">
+    <name>bg</name>
+    <wav>./sounds/music/sing_me_to_sleep.wav</wav>
+    <mp3>./sounds/music/sing_me_to_sleep.mp3</mp3>
+    <mode>2</mode>
+  </sound>
+  <sound category="effect">
+    <name>victory</name>
+    <wav>./sounds/fx/victory.wav</wav>
+    <mp3>./sounds/fx/victory.mp3</mp3>
+    <mode>0</mode>
+  </sound>
+  <sound category="effect">
+    <name>game-over</name>
+    <wav>./sounds/fx/game-over.wav</wav>
+    <mp3>./sounds/fx/game-over.mp3</mp3>
+    <mode>0</mode>
+  </sound>
+  <sound category="effect">
+    <name>collideDown</name>
+    <wav>./sounds/fx/collideDown.wav</wav>
+    <mp3>./sounds/fx/collideDown.mp3</mp3>
+    <mode>0</mode>
+  </sound>
+  <sound category="effect">
+    <name>collideUp</name>
+    <wav>./sounds/fx/collideUp.wav</wav>
+    <mp3>./sounds/fx/collideUp.mp3</mp3>
+    <mode>0</mode>
+  </sound>
+  <sound category="effect">
+    <name>collideRight</name>
+    <wav>./sounds/fx/collideRight.wav</wav>
+    <mp3>./sounds/fx/collideRight.mp3</mp3>
+    <mode>0</mode>
+  </sound>
+  <sound category="effect">
+    <name>collideLeft</name>
+    <wav>./sounds/fx/collideLeft.wav</wav>
+    <mp3>./sounds/fx/collideLeft.mp3</mp3>
+    <mode>0</mode>
+  </sound>
+</soundlist>
